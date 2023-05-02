@@ -52,4 +52,3 @@ class PdfReader:
 
 curriculo1 = PdfReader("Currículo (8).pdf")
 print(curriculo1.get_graduation)
-curriculo1.create_new_page()
